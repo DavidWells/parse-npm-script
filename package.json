@@ -1,6 +1,6 @@
 {
   "name": "parse-npm-script",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Parse npm package script to see how they resolve",
   "main": "lib/index.js",
   "files": [
