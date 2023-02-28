@@ -97,3 +97,7 @@ Will result in this output:
   combined: 'echo a && echo foo && echo b && echo cleanup && echo c'
 }
 ```
+
+## Alt packages
+
+- https://github.com/coderaiser/redrun
